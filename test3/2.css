@@ -1,0 +1,13 @@
+
+@media(max-width: 785px){
+    .nav0{
+        display: none;
+    }
+    #menu{
+        display: block;
+        margin-right: 10px;
+    }
+    header{
+        justify-content: flex-end;
+    }
+}
